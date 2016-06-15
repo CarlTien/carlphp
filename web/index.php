@@ -1,6 +1,10 @@
 <?php
 
 phpinfo();
+
+echo $var;
+echo htmlspecialchars($var, ENT_QUOTES, 'UTF-8');
+
 //require('../vendor/autoload.php');
 
 $app = new Silex\Application();
