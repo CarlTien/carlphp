@@ -7,5 +7,6 @@
 </head>
 <body>
 <h1>哈哈哈哈哈</h1>
+<?php echo 'hello world from php'?>
 </body>
 </html>
